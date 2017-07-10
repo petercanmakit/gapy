@@ -45,6 +45,7 @@ function to obtain useful pageviews data. Have a try:
 		print get_pageviews_array(analytics, '2017-01-01', 'today', 'total')
 		
 Output is something like this:
+
 		# per day
 		[['2017-07-04', '2017-07-05', '2017-07-06', '2017-07-07', '2017-07-08', '2017-07-09', '2017-07-10'], [1, 0, 1, 1, 0, 6, 4]]
 		# per week
