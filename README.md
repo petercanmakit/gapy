@@ -1,3 +1,5 @@
+Author: Jiajun Zhang
+
 ### gapy: A concise wrapper for Google Analytics Reporting API V4.
 
 If you want to get pageviews and other statistics with Google Analytics and you really don't 
