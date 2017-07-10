@@ -5,8 +5,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
-KEY_FILE_LOCATION = 'IPIM-742550970c79.json'
-VIEW_ID = '153403983'
+KEY_FILE_LOCATION = <YOUR_JSON_KEY_FILE>
+VIEW_ID = <YOUR_PAGE_VIEW_ID>
 
 
 def initialize_analyticsreporting():
